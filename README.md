@@ -59,7 +59,7 @@ pip install requirements.txt
 4. **Explore Visualizations**: The dashboard will update to reflect your selections, providing insights into stock performance, correlations, and expected returns.
 
 ## Example Dashboard
-file:///home/yvvonmajala/Downloads/Screenshot%20from%202024-08-13%2011-22-54.jpg
+![Screenshot from 2024-08-13 11-22-54](https://github.com/user-attachments/assets/eedf4724-ad90-40ae-b5d0-198aba295c03)
 
 
 ## License
