@@ -33,7 +33,7 @@ pip install requirements.txt
 
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/YvvonM/portfolio_optimization.git]
+   git clone https://github.com/YvvonM/portfolio_optimization.git
    ```
    
 2. **Navigate to the project directory**:
