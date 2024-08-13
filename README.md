@@ -1,6 +1,4 @@
-Here's a `README.md` for your Streamlit stock analysis dashboard:
 
----
 
 # Stock Analysis Dashboard
 
@@ -126,7 +124,8 @@ pip install streamlit numpy pandas matplotlib seaborn yfinance
 
 ## Example Dashboard
 
-![Screenshot from 2024-05-29 12-39-19](https://github.com/user-attachments/assets/9e3f6cab-a4d8-4a28-a721-7666de0336b9)
+file:///home/yvvonmajala/Pictures/Screenshots/Screenshot%20from%202024-08-13%2010-56-22.png
+
 
 
 ## License
